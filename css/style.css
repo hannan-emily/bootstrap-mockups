@@ -1,5 +1,5 @@
 .container {
-  background: lightgrey;
+  background-color: lightgrey;
   border: 1px solid black;
 }
 
@@ -9,4 +9,10 @@
 
 .col {
   border: 1px solid black;
+  text-align: center;
+}
+
+.subheader {
+  background-color: black;
+  color: white;
 }
