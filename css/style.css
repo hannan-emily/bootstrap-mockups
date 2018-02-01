@@ -1,3 +1,19 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+h4 {
+  font-weight: 300;
+  color: blue;
+  font-size: 90%;
+  text-transform: uppercase;
+}
+
 .container {
   background-color: lightgrey;
   border: 1px solid black;
@@ -15,4 +31,23 @@
 .subheader {
   background-color: black;
   color: white;
+}
+
+.featureProduct1 {
+  background-color: #E7E7E7;
+}
+
+.featureProduct1text {
+  text-align: left;
+}
+
+.btn-primary {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+}
+
+.textLeft {
+  text-align: left !important;
 }
